@@ -1,8 +1,11 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 theme: jekyll-theme-minimal
 title: Behnood's homepage
 description: Bookmark this to keep an eye on my project updates!
 =======
+=======
+>>>>>>> ab582f1 (My new website)
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your whole blog, values
@@ -58,4 +61,7 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+<<<<<<< HEAD
+>>>>>>> ab582f1 (My new website)
+=======
 >>>>>>> ab582f1 (My new website)
