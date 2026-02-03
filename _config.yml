@@ -21,7 +21,6 @@
 title: Behnood Bandi
 email: b.bandi@sussex.ac.uk
 description: >- # this means to ignore newlines until "baseurl:"
-An astronomer on a small planet 🌍 orbiting around a G2 star 🌞. Doctoral researcher at the University of Sussex. Fellow of the Royal Astronomical Society.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://behnoodbandi.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: behnoodbandi
