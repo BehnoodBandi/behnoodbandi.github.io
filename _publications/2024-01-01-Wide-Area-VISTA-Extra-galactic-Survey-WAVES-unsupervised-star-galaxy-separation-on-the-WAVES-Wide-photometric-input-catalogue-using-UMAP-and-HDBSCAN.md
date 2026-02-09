@@ -2,7 +2,7 @@
 title: "Wide Area VISTA Extra-galactic Survey (WAVES): unsupervised star-galaxy separation on the WAVES-Wide photometric input catalogue using UMAP and HDBSCAN"
 collection: publications
 category: manuscripts
-permalink: /publication 2024-01-01-Wide-Area-VISTA-Extra-galactic-Survey-WAVES-unsupervised-star-galaxy-separation-on-the-WAVES-Wide-photometric-input-catalogue-using-UMAP-and-HDBSCAN
+permalink: /publication/2024-01-01-Wide-Area-VISTA-Extra-galactic-Survey-WAVES-unsupervised-star-galaxy-separation-on-the-WAVES-Wide-photometric-input-catalogue-using-UMAP-and-HDBSCAN
 date: 2024-01-01
 venue: 'Monthly Notices of the Royal Astronomical Society'
 paperurl: 'https://academic.oup.com/mnras/article/535/3/2129/7826785'

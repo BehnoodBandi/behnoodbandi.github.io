@@ -1,6 +1,7 @@
 ---
 title: "The 4MOST-Cosmology Redshift Survey: Target Selection of Bright Galaxies and Luminous Red Galaxies"
 collection: publications
+category: manuscripts
 permalink: /publication/2025-01-01-The-4MOST-Cosmology-Redshift-Survey-Target-Selection-of-Bright-Galaxies-and-Luminous-Red-Galaxies
 date: 2025-01-01
 venue: 'Monthly Notices of the Royal Astronomical Society'

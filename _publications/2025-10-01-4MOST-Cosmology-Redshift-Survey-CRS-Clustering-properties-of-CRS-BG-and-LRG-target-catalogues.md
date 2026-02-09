@@ -1,6 +1,7 @@
 ---
 title: "4MOST Cosmology Redshift Survey (CRS): Clustering properties of CRS BG and LRG target catalogues"
 collection: publications
+category: manuscripts
 permalink: /publication/2025-10-01-4MOST-Cosmology-Redshift-Survey-CRS-Clustering-properties-of-CRS-BG-and-LRG-target-catalogues
 date: 2025-10-01
 venue: 'arXiv:2510.02449'

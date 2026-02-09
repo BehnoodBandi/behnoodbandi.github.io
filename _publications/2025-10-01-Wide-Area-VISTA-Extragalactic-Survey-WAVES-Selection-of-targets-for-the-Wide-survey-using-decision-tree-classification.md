@@ -1,6 +1,7 @@
 ---
 title: "Wide Area VISTA Extragalactic Survey (WAVES): Selection of targets for the Wide survey using decision-tree classification"
 collection: publications
+category: manuscripts
 permalink: /publication/2025-10-01-Wide-Area-VISTA-Extragalactic-Survey-WAVES-Selection-of-targets-for-the-Wide-survey-using-decision-tree-classification
 date: 2025-10-01
 venue: 'arXiv:2510.11132'
