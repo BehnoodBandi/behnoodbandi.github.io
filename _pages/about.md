@@ -9,7 +9,7 @@ redirect_from:
 
 I am a PhD student in astronomy at the University of Sussex. My research focuses on large-scale structure cosmology, with an emphasis on testing and validating galaxy survey catalogues using galaxy clustering. I work primarily on the Cosmology Redshift Survey (CRS) and the [Wide Area VISTA Extragalactic Survey (WAVES)](https://wavesurvey.org/), both conducted with the [4-metre Multi-Object Spectroscopic Telescope (4MOST)](https://www.4most.eu/).
 
-A central theme of my work is understanding when a galaxy catalogue can be trusted for precision cosmology. In modern wide-area surveys, target selection, imaging depth, extinction, masking, and stellar contamination can all imprint spatial structure that mimics or distorts true clustering. I address this by using two-point statistics—particularly the angular correlation function \(w(\theta)\)—as a diagnostic tool to assess catalogue quality, quantify systematic effects, and inform survey design and analysis choices.
+A central theme of my work is understanding when a galaxy catalogue can be trusted for precision cosmology. In modern wide-area surveys, target selection, imaging depth, extinction, masking, and stellar contamination can all imprint spatial structure that mimics or distorts true clustering. I address this by using two-point statistics, particularly the angular correlation function \(w(\theta)\), as a diagnostic tool to assess catalogue quality, quantify systematic effects, and inform survey design and analysis choices.
 
 A major part of my PhD involves validating galaxy target selections for 4MOST CRS, including Bright Galaxy and Luminous Red Galaxy samples selected from wide-field imaging. I test alternative selection and masking strategies, assess angular uniformity, and use clustering-based diagnostics and redshift reconstruction techniques to evaluate sample robustness. In parallel, I apply similar clustering-based validation methods to WAVES, testing photometric systematics, stellar contamination, and the impact of different magnitude and colour selections on large-scale clustering.
 
@@ -19,7 +19,11 @@ Methodologically, my work centres on two-point statistics in angular and project
 
 I am a permanent member of the 4MOST Science Team, contributing to survey preparation, Commissioning, and Science Verification, with planned on-site Science Verification work at Paranal Observatory. I am also a member of the Euclid Consortium and LSST-DESC, and I am interested in applying my experience in survey systematics and photometric clustering to Euclid and LSST.
 
-This website provides an overview of my research activities, publications, and software tools. An up-to-date list of my papers is available on the [Publications](/publications/) page.
+Alongside my research, I am actively involved in science communication and outreach. I serve as a Science Communication co-lead for 4MOST, where I help coordinate outreach activities, develop survey-related communication materials, and support engagement with the broader astronomical community.
+
+I also regularly contribute to public talks, workshops, and outreach events, and work with local astronomical societies to communicate survey science and observational cosmology to wider audiences. I am particularly interested in making large survey projects accessible and transparent, and in connecting technical survey work with public-facing narratives about how we map and understand the Universe.
+
+An up-to-date list of my papers is available on the [Publications](/publications/) page.
 
 
 
