@@ -1,0 +1,10 @@
+---
+title: "4MOST Cosmology Redshift Survey (CRS): Clustering properties of CRS BG and LRG target catalogues"
+collection: publications
+permalink: /publication/2025-10-01-4MOST-Cosmology-Redshift-Survey-CRS-Clustering-properties-of-CRS-BG-and-LRG-target-catalogues
+date: 2025-10-01
+venue: 'arXiv:2510.02449'
+paperurl: 'http://arxiv.org/abs/2510.02449'
+citation: ' Behnood Bandi,  Antoine Rocher,  Aurélien Verdier,  Jon Loveday,  Zhuo Chen,  Johan Richard,  Jean-Paul Kneib,  Tom Shanks,  Michael Brown, &quot;4MOST Cosmology Redshift Survey (CRS): Clustering properties of CRS BG and LRG target catalogues.&quot; arXiv:2510.02449, 2025.'
+---
+[Access paper here](http://arxiv.org/abs/2510.02449){:target="_blank"}
