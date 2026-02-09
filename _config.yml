@@ -93,6 +93,8 @@ publication_category:
     title: 'In Preparation'    
   conferences:
     title: 'Conference Papers'
+  eprints:
+    title: 'Preprints'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
