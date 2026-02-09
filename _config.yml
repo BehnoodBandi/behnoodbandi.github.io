@@ -88,8 +88,8 @@ publication_category:
   # books:
     # title: 'Books'
   manuscripts:
-    title: 'Publications'    
-  # conferences:
+    title: 'Journal Articles'    
+    # conferences:
     # title: 'Conference Papers'
 
 # Site Settings
