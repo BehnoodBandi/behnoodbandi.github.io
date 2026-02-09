@@ -105,6 +105,8 @@ talks_category:
     title: 'Collaboration Meeting Talks'  
   conference:
     title: 'Conference Talks'
+  cloquium:
+    title: 'Colloquium and Seminar Talks'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews

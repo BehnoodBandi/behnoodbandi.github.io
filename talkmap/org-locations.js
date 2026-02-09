@@ -1,5 +1,15 @@
 var addressPoints = [
   [
+    "Tatooine Orbits<br />Brighton Astro; Brighton, UK",
+    50.8214626,
+    -0.1400561
+  ],
+  [
+    "The Earth\u2019s favourite New year, Nowruz<br />Lewes Astronomical Society; Lewes, UK",
+    50.8746139,
+    0.0051153
+  ],
+  [
     "Angular two-point correlation function of Euclid Early Data<br />Euclid Galaxy Clustering Meeting, Max Planck Institute for Extraterrestrial Physics; Garching, Germany",
     48.2513878,
     11.6509662
