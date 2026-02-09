@@ -6,7 +6,7 @@ permalink: /publication/2026-01-01-Wide-Area-VISTA-Extra-galactic-Survey-WAVES-C
 excerpt: 'In prep - Near Submission'
 date: 2026-01-01
 venue: 'In prep - Near Submission'
-citation: ' Behnood Bandi,  Jon Loveday,  Sam Philipsborn,  Sabine Bellstedt,  Simon Driver,  Aaron Robotham,  Maciej Bilicki,  Gursharanjit Kaur,  Elmo Tempel, &quot;Wide Area VISTA Extra-galactic Survey (WAVES): Clustering properties of WAVES--wide target catalogues.&quot; In prep - Near Submission, In prep.'
+citation: 'B. Bandi, et al., In prep.'
 ---
 In prep - Near Submission
 

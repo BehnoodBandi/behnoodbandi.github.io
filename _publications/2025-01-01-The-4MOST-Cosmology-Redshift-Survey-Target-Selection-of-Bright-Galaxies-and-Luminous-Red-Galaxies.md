@@ -8,4 +8,4 @@ venue: 'Monthly Notices of the Royal Astronomical Society'
 paperurl: 'https://academic.oup.com/mnras/advance-article/doi/10.1093/mnras/staf2116/8351092'
 citation: ' Aurélien Verdier,  Antoine Rocher,  Behnood Bandi,  Johan Richard,  Boudewijn Roukema,  Jon Loveday,  Elmo Tempel,  Maciej Bilicki,  Jean-Paul Kneib,  Mathilde Guitton, &quot;The 4MOST-Cosmology Redshift Survey: Target Selection of Bright Galaxies and Luminous Red Galaxies.&quot; Monthly Notices of the Royal Astronomical Society, 2025.'
 ---
-[Access paper here](https://academic.oup.com/mnras/advance-article/doi/10.1093/mnras/staf2116/8351092){:target="_blank"}
+<!-- [Access paper here](https://academic.oup.com/mnras/advance-article/doi/10.1093/mnras/staf2116/8351092){:target="_blank"} -->
