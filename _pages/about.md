@@ -1,4 +1,27 @@
 ---
+layout: single
+title: "About"
+permalink: /about/
+author_profile: true
+---
+
+I am a PhD student in astronomy at the University of Sussex. My research focuses on large-scale structure cosmology, with an emphasis on testing and validating galaxy survey catalogues using galaxy clustering. I work primarily on the Cosmology Redshift Survey (CRS) and the [Wide Area VISTA Extragalactic Survey (WAVES)](https://wavesurvey.org/), both conducted with the [4-metre Multi-Object Spectroscopic Telescope (4MOST)](https://www.4most.eu/).
+
+A central theme of my work is understanding when a galaxy catalogue can be trusted for precision cosmology. In modern wide-area surveys, target selection, imaging depth, extinction, masking, and stellar contamination can all imprint spatial structure that mimics or distorts true clustering. I address this by using two-point statistics—particularly the angular correlation function \(w(\theta)\)—as a diagnostic tool to assess catalogue quality, quantify systematic effects, and inform survey design and analysis choices.
+
+A major part of my PhD involves validating galaxy target selections for 4MOST CRS, including Bright Galaxy and Luminous Red Galaxy samples selected from wide-field imaging. I test alternative selection and masking strategies, assess angular uniformity, and use clustering-based diagnostics and redshift reconstruction techniques to evaluate sample robustness. In parallel, I apply similar clustering-based validation methods to WAVES, testing photometric systematics, stellar contamination, and the impact of different magnitude and colour selections on large-scale clustering.
+
+Beyond galaxy samples, I also work on quasar target selection for 4MOST CRS and for the planned Widefield Spectroscopic Telescope (WST), with a focus on selecting samples suitable for large-scale structure and high-redshift applications.
+
+Methodologically, my work centres on two-point statistics in angular and projected space, Limber scaling tests, covariance estimation, and the development of reproducible, survey-agnostic Python pipelines. These tools are designed to test how observational and selection effects propagate into clustering measurements and uncertainties, and to support robust cosmological analyses.
+
+I am a permanent member of the 4MOST Science Team, contributing to survey preparation, Commissioning, and Science Verification, with planned on-site Science Verification work at Paranal Observatory. I am also a member of the Euclid Consortium and LSST-DESC, and I am interested in applying my experience in survey systematics and photometric clustering to Euclid and LSST.
+
+This website provides an overview of my research activities, publications, and software tools. An up-to-date list of my papers is available on the [Publications](/publications/) page.
+
+
+
+<!-- ---
 permalink: /
 title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
 author_profile: true
@@ -53,4 +76,4 @@ Example: editing a Markdown file for a talk
 
 For more info
 ------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
