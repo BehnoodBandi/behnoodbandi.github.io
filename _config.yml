@@ -26,7 +26,7 @@ author:
   avatar           : "profile.png"
   name             : "Behnood Bandi "
   pronouns         : "he/him" # Optional, e.g. "she/her", "they/them", "he/him"
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : ""
   location         : "Brighton, UK"
   employer         : "University of Sussex"
   uri              : "https://behnood.co.uk" # Personal website URL, e.g. "https://[your GitHub username].github.io"
