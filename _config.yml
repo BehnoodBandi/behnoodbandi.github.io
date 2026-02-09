@@ -35,7 +35,7 @@ author:
   # Academic websites
   academia         : # URL
   arxiv            : https://arxiv.org/a/bandi_b_1.html
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=2BMcp7wAAAAJ&hl=en"
   inspire-hep      : # URL
   impactstory      : # URL
   orcid            : "https://orcid.org/0000-0001-5838-3903"
@@ -45,6 +45,7 @@ author:
   researchgate     : # URL
   scopus           : # URL
   zotero           : # URL
+  ads              : https://ui.adsabs.harvard.edu/search/q=orcid%3A0000-0001-5838-3903&sort=date%20desc%2C%20bibcode%20desc&p_=0
 
 
   # Repositories and software development
