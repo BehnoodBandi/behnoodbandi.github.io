@@ -1,22 +1,17 @@
 var addressPoints = [
   [
-    "Conference Proceeding talk 3 on Relevant Topic in Your Field<br />Testing Institute of America 2014 Annual Conference; Los Angeles, CA, USA",
-    34.0536909,
-    -118.242766
+    "Angular two-point correlation function of Euclid Early Data<br />Euclid Galaxy Clustering Meeting; Garching, Germany",
+    48.2513878,
+    11.6509662
   ],
   [
-    "Talk 2 on Relevant Topic in Your Field<br />London School of Testing; London, UK",
-    51.5074456,
-    -0.1277653
+    "Mapping the Universe: The Past, Present, and Future of Sky Surveys<br />_jsiionomy Festival @ Herstmonceux Observatory; Herstmonceux, East Sussex, UK",
+    50.8859103,
+    0.3174624
   ],
   [
-    "Tutorial 1 on Relevant Topic in Your Field<br />UC-Berkeley Institute for Testing Science; Berkeley, CA, USA",
-    37.8708393,
-    -122.272863
-  ],
-  [
-    "Talk 1 on Relevant Topic in Your Field<br />UC San Francisco, Department of Testing; San Francisco, CA, USA",
-    37.7879363,
-    -122.4075201
+    "CRS BG and LRG target selection and angular clustering<br />4MOST Science Team Meeting; Naples, Italy",
+    40.8358846,
+    14.2487679
   ]
 ];
