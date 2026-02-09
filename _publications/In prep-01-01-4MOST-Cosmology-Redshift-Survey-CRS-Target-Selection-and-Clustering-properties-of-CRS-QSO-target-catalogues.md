@@ -9,4 +9,4 @@ citation: ' Behnood Bandi,  Antoine Rocher,  Aurélien Verdier,  Jon Loveday,  J
 ---
 Near Submission
 
-Use [Google Scholar](https://scholar.google.com/scholar?q=4MOST+Cosmology+Redshift+Survey+(CRS):+Target+Selection+and+Clustering+properties+of+CRS+QSO+target+catalogues){:target="_blank"} for full citation
+<!-- Use [Google Scholar](https://scholar.google.com/scholar?q=4MOST+Cosmology+Redshift+Survey+(CRS):+Target+Selection+and+Clustering+properties+of+CRS+QSO+target+catalogues){:target="_blank"} for full citation -->
