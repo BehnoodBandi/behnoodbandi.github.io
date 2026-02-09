@@ -1,7 +1,7 @@
 ---
 title: "Wide Area VISTA Extra-galactic Survey (WAVES): Clustering properties of WAVES--wide target catalogues"
 collection: publications
-category: manuscripts
+category: inprep
 permalink: /publication/2026-01-01-Wide-Area-VISTA-Extra-galactic-Survey-WAVES-Clustering-properties-of-WAVES-wide-target-catalogues
 excerpt: 'In prep - Near Submission'
 date: 2026-01-01
