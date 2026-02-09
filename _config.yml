@@ -13,7 +13,7 @@ title                    : "Behnood Bandi"
 title_separator          : "-"
 name                     : &name "Behnood Bandi"
 description              : &description "Behnood Bandi's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://behnoodbandi.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+url                      : https://behnood.co.uk # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "BehnoodBandi/behnoodbandi.github.io"
@@ -29,7 +29,7 @@ author:
   bio              : "Short biography for the left-hand sidebar"
   location         : "Brighton, UK"
   employer         : "University of Sussex"
-  uri              : "https://behnoodbandi.github.io" # Personal website URL, e.g. "https://[your GitHub username].github.io"
+  uri              : "https://behnood.co.uk" # Personal website URL, e.g. "https://[your GitHub username].github.io"
   email            : "b.bandi@sussex.ac.uk" 
 
   # Academic websites
@@ -57,7 +57,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : #"bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -66,7 +66,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : https://www.linkedin.com/in/behnoodbandi/
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
