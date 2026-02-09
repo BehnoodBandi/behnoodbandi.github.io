@@ -89,12 +89,12 @@ publication_category:
     title: 'Books'
   manuscripts:
     title: 'Journal Articles'  
+  eprints:
+    title: 'Preprints'
   inprep:
     title: 'In Preparation'    
   conferences:
     title: 'Conference Papers'
-  eprints:
-    title: 'Preprints'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
