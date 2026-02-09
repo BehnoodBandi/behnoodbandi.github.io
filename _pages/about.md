@@ -1,8 +1,10 @@
 ---
-layout: single
-title: "About"
-permalink: /about/
+permalink: /
+title: ""
 author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
 ---
 
 I am a PhD student in astronomy at the University of Sussex. My research focuses on large-scale structure cosmology, with an emphasis on testing and validating galaxy survey catalogues using galaxy clustering. I work primarily on the Cosmology Redshift Survey (CRS) and the [Wide Area VISTA Extragalactic Survey (WAVES)](https://wavesurvey.org/), both conducted with the [4-metre Multi-Object Spectroscopic Telescope (4MOST)](https://www.4most.eu/).
