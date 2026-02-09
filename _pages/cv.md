@@ -96,17 +96,6 @@ Oct 2025 – Dec 2025
 </ul>
 
 ---
-
-## Talks
-
-<ul>
-{% for post in site.talks reversed %}
-  {% include archive-single-talk-cv.html %}
-{% endfor %}
-</ul>
-
----
-
 ## Teaching
 
 <ul>
@@ -126,6 +115,17 @@ Oct 2025 – Dec 2025
 - President, Physics & Astronomy Society, Tehran Polytechnic (2015 – 2020)
 
 ---
+
+## Talks
+
+<ul>
+{% for post in site.talks reversed %}
+  {% include archive-single-talk-cv.html %}
+{% endfor %}
+</ul>
+
+---
+
 
 ## References
 
