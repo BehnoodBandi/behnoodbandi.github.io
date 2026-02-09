@@ -41,6 +41,7 @@
   </article>
 </div> -->
 
+
 {% include base_path %}
 
 {% if post.header.teaser %}
@@ -81,32 +82,26 @@
       {% endif %}
     </h2>
 
-    {% if post.read_time %}
-      <p class="page__meta"><i class="fa fa-clock" aria-hidden="true"></i> {% include read-time.html %}</p>
-    {% endif %}
-
     {% if post.date %}
       <p class="page__meta">
         <i class="fa fa-calendar" aria-hidden="true"></i>
         <strong>Date:</strong>
         <time datetime="{{ post.date | date_to_xmlschema }}">
-          {{ post.date | date: "%B %Y" }}
+          {{ post.date | date: "%d %B %Y" }}
         </time>
       </p>
     {% endif %}
 
-    {% if post.venue or post.location or post.type %}
-      <p class="archive__item-excerpt" itemprop="description">
+    {% if post.type or post.venue or post.location %}
+      <p class="page__meta">
         {% if post.type %}{{ post.type }}{% endif %}
-        {% if post.venue %}{% if post.type %}, {% endif %}{{ post.venue }}{% endif %}
-        {% if post.location %}{% if post.type or post.venue %}, {% endif %}{{ post.location }}{% endif %}
+        {% if post.venue %}{% if post.type %} · {% endif %}{{ post.venue }}{% endif %}
+        {% if post.location %}{% if post.type or post.venue %} · {% endif %}{{ post.location }}{% endif %}
       </p>
     {% endif %}
 
     {% if post.talk_url and post.talk_url != "NaN" %}
-      <p class="page__meta">
-        <a href="{{ post.talk_url }}">Talk link</a>
-      </p>
+      <p class="page__meta"><a href="{{ post.talk_url }}">Talk link</a></p>
     {% endif %}
 
     {% if post.description %}
@@ -114,5 +109,6 @@
     {% elsif post.excerpt %}
       <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>
     {% endif %}
+
   </article>
 </div>
