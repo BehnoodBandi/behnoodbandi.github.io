@@ -2,8 +2,9 @@
 title: "CRS BG and LRG target selection and angular clustering"
 collection: talks
 type: "Collaboration meeting talk"
+category: collaboration
 permalink: /talks/2025-02-crs-bg-lrg-target-selection-angular-clustering
-venue: "4MOST Science Team Meeting"
+venue: "4MOST Science Team Meeting, University of Naples Federico II"
 date: 2025-02-24
 location: "Naples, Italy"
 ---

@@ -2,8 +2,9 @@
 title: "Mapping the Universe: The Past, Present, and Future of Sky Surveys"
 collection: talks
 type: "Outreach talk"
+category: outreach
 permalink: /talks/2025-08-28-mapping-the-universe-sky-surveys
-venue: "_jsiionomy Festival @ Herstmonceux Observatory"
+venue: "Astronomy Festival, Herstmonceux Observatory"
 date: 2025-08-28
 location: "Herstmonceux, East Sussex, UK"
 ---

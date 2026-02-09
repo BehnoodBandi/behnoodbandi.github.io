@@ -96,6 +96,16 @@ publication_category:
   conferences:
     title: 'Conference Papers'
 
+
+  # Publication Category - The following the list of publication categories and their headings
+talks_category:
+  outreach:
+    title: 'Public and Outreach Talks'
+  collaboration:
+    title: 'Collaboration Meeting Talks'  
+  conference:
+    title: 'Conference Talks'
+
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
 breadcrumbs              : false # true, false (default)
