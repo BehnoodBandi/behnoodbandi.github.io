@@ -2,7 +2,7 @@
 title: "Physics Foundation Year Lab"
 collection: teaching
 type: "Lab"
-permalink: /teaching/2023-foundation-year-lab
+permalink: /teaching/2023-09-01-foundation-year-lab-a
 venue: "University of Sussex"
 date: 2023 - 2025
 location: "Brighton, UK"
