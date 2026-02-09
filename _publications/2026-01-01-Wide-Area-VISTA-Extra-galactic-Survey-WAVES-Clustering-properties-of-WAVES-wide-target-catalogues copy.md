@@ -8,6 +8,5 @@ status: "In prep – Near submission"
 
 authors: 'B. Bandi, et al., In prep.'
 ---
-In prep - Near Submission
 
 <!-- Use [Google Scholar](https://scholar.google.com/scholar?q=Wide+Area+VISTA+Extra+galactic+Survey+(WAVES):+Clustering+properties+of+WAVES++wide+target+catalogues){:target="_blank"} for full citation -->
