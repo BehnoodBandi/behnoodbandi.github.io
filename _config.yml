@@ -99,12 +99,12 @@ publication_category:
 
   # Publication Category - The following the list of publication categories and their headings
 talks_category:
+  conference:
+    title: 'Conference Talks'
   outreach:
     title: 'Public and Outreach Talks'
   collaboration:
     title: 'Collaboration Meeting Talks'  
-  conference:
-    title: 'Conference Talks'
   cloquium:
     title: 'Colloquium and Seminar Talks'
 
