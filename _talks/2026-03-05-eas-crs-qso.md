@@ -1,5 +1,5 @@
 ---
-title: "4MOST CRS Quasar Target Selection, and Science Programme Validation Results"
+title: "4MOST Cosmology Redshift Survey: Quasar Target Selection, and Science Programme Validation Results"
 collection: talks
 type: "Conference talk"
 category: conference
